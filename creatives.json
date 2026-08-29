@@ -1,0 +1,28 @@
+[
+  {
+    "name": "creative-1-benefit-checkliste",
+    "bilder": [
+      "logo.jpg",
+      "img/foto-02-arbeitsplaetze.jpg"
+    ],
+    "prompt": "Erstelle ein Werbe-Creative im Hochformat für eine Meta-Stellenanzeige. Beigefügt: (1) das Firmenlogo 'architekten flöß' (feiner, dunkelgrauer Linien-Schriftzug auf Weiss), (2) ein Foto eines hellen, modernen Architekturbueros mit langen weissen Schreibtischen, Bildschirmen und dunklem Holzboden. Nutze das Foto unveraendert als obere Bildhaelfte, darunter eine ruhige anthrazitfarbene Flaeche (#424441). Layout unten von oben nach unten: Headline gross, fett, weiss: 'BAULEITER' mit kleinem Zusatz '(m/w/d)'. Standort-Zeile mit kleinem roten Pin-Symbol: 'Villingen-Schwenningen · Donaueschingen · Rottweil & Umgebung'. Vier Benefit-Pills (weisse abgerundete Balken mit dunklem Haekchen, schwarze Schrift): 'Leistungsphasen 5 bis 9' / 'Kurzer Freitag' / 'Flexible Arbeitszeiten' / 'Unbefristeter Arbeitsvertrag'. Ganz unten ein warm-brauner Balken (#884028) mit weisser Schrift: 'Jetzt unverbindliches Job-Angebot erhalten'. Das beigefuegte Logo original und unveraendert oben links auf weisser Mini-Kachel. Ruhiges, hochwertiges, architektonisch klares Layout. Verboten: Telefonnummern, E-Mail-Adressen, Website-URLs, QR-Codes, Personennamen, Gehaltszahlen, erfundene Siegel oder Logos; Logo und Fotos nicht veraendern, verzerren oder umfaerben (nur zuschneiden). Aller Text vollstaendig innerhalb seiner Flaechen, nichts angeschnitten, Deutsch fehlerfrei."
+  },
+  {
+    "name": "creative-2-buero-collage",
+    "bilder": [
+      "logo.jpg",
+      "img/foto-01-buero-flur.jpg",
+      "img/foto-03-teekueche.jpg",
+      "img/hero.jpg"
+    ],
+    "prompt": "Erstelle ein Werbe-Creative im Hochformat für eine Meta-Stellenanzeige als saubere Foto-Collage. Beigefügt: (1) das Firmenlogo 'architekten flöß' (feiner dunkelgrauer Linien-Schriftzug), (2) ein Foto eines hellen Buerogangs mit dunklem Holzboden und begruenter Wand, (3) ein Foto einer minimalistischen weissen Teekueche unter alten Holzdachbalken, (4) ein Foto eines Besprechungsraums mit Dachschraege und sichtbarem Holzfachwerk. Ordne die drei Fotos als klares Raster mit schmalen weissen Fugen an (ein grosses Foto oben, zwei kleinere darunter nebeneinander), jedes Foto unveraendert. Darunter eine weisse Flaeche mit Headline gross, fett, anthrazit: 'Architektur mit Verantwortung fuer den Bestand'; darunter eine kleinere Zeile auf anthrazitfarbenem Balken (#424441) in weiss: 'Bauleiter (m/w/d) in Villingen-Schwenningen'. Das beigefuegte Logo original und unveraendert unten mittig. Viel Weissraum, hochwertig, kein weiterer Text. Verboten: Telefonnummern, E-Mail-Adressen, Website-URLs, QR-Codes, Personennamen, Gehaltszahlen, erfundene Siegel oder Logos; Logo und Fotos nicht veraendern, verzerren oder umfaerben (nur zuschneiden). Aller Text vollstaendig innerhalb seiner Flaechen, nichts angeschnitten, Deutsch fehlerfrei."
+  },
+  {
+    "name": "creative-4-arbeitsplatz-vollbild",
+    "bilder": [
+      "logo.jpg",
+      "img/hero.jpg"
+    ],
+    "prompt": "Erstelle ein Werbe-Creative im Hochformat für eine Meta-Stellenanzeige als Vollbild. Beigefügt: (1) das Firmenlogo 'architekten flöß' (feiner dunkelgrauer Linien-Schriftzug), (2) ein Foto eines Besprechungsraums unter einer Dachschraege mit sichtbarem Holzfachwerk, grossem Tisch und dunklem Holzboden. Nutze das Foto formatfuellend und unveraendert als Hintergrund; lege ueber die untere Bildhaelfte einen weichen Verlauf von transparent nach fast schwarz, damit der Text sicher lesbar ist. Text unten linksbuendig: kleine helle Ueberzeile 'ARCHITEKTEN FLOESS SUCHT'; darunter eine sehr grosse, fette weisse Headline in zwei Zeilen: 'Bauleitung mit Handschrift.'; darunter eine kleinere weisse Zeile: 'Bauleiter (m/w/d) · Leistungsphasen 5 bis 9 · Villingen-Schwenningen'. Das beigefuegte Logo original und unveraendert oben rechts auf einer kleinen weissen Kachel. Kein weiterer Text, ruhige hochwertige Anmutung. Verboten: Telefonnummern, E-Mail-Adressen, Website-URLs, QR-Codes, Personennamen, Gehaltszahlen, erfundene Siegel oder Logos; Logo und Fotos nicht veraendern, verzerren oder umfaerben (nur zuschneiden). Aller Text vollstaendig innerhalb seiner Flaechen, nichts angeschnitten, Deutsch fehlerfrei."
+  }
+]

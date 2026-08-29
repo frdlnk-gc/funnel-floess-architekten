@@ -1,0 +1,20 @@
+{
+  "name": "creative-3-karte-lokal",
+  "logo": "logo.jpg",
+  "karte": "img/karte.jpg",
+  "primary": "#424441",
+  "primary_ink": "#FFFFFF",
+  "balken": "#884028",
+  "balken_ink": "#FFFFFF",
+  "headline": [
+    "BAULEITER"
+  ],
+  "headline_zusatz": "(m/w/d) gesucht",
+  "staedte": "Villingen-Schwenningen · Donaueschingen · Rottweil & Umgebung",
+  "pills": [
+    "Leistungsphasen 5–9",
+    "Kurzer Freitag"
+  ],
+  "cta": "In 60 Sekunden zum unverbindlichen Job-Angebot",
+  "pin_label": "Villingen-Schwenningen"
+}

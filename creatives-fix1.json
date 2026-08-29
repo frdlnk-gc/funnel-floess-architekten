@@ -1,0 +1,12 @@
+[
+  {
+    "name": "creative-2-buero-collage",
+    "bilder": [
+      "logo.jpg",
+      "img/foto-01-buero-flur.jpg",
+      "img/foto-03-teekueche.jpg",
+      "img/hero.jpg"
+    ],
+    "prompt": "Erstelle ein Werbe-Creative im Hochformat für eine Meta-Stellenanzeige als saubere Foto-Collage. Beigefügt: (1) das Firmenlogo 'architekten flöß' (feiner dunkelgrauer Linien-Schriftzug), (2) ein Foto eines hellen Bürogangs mit dunklem Holzboden und begrünter Wand, (3) ein Foto einer weißen Teeküche unter alten Holzdachbalken, (4) ein Foto eines Besprechungsraums mit Dachschräge und Holzfachwerk. Ordne die drei Fotos als klares Raster mit schmalen weißen Fugen an (ein großes Foto oben, zwei kleinere darunter nebeneinander), jedes Foto unverändert. Darunter eine weiße Fläche mit genau zwei Textelementen: erstens die Headline groß, fett, anthrazit: „Architektur mit Verantwortung für den Bestand“; zweitens – PFLICHT, darf nicht weggelassen werden – direkt darunter ein durchgehender anthrazitfarbener Balken (#424441) über die volle Breite mit weißer Schrift: „Bauleiter (m/w/d) in Villingen-Schwenningen“. Das beigefügte Logo original und unverändert unten mittig. Viel Weißraum, hochwertig. Verboten: Telefonnummern, E-Mail-Adressen, Website-URLs, QR-Codes, Personennamen, Postanschriften, Gehaltszahlen, erfundene Siegel oder Logos. Erfinde KEINEN weiteren Text: setze ausschließlich die oben wörtlich vorgegebenen Zeilen, buchstabengetreu inklusive Umlaute und ß. Logo und Fotos nicht verändern, verzerren oder umfärben (nur zuschneiden). Aller Text vollständig innerhalb seiner Flächen, nichts angeschnitten, Deutsch fehlerfrei."
+  }
+]
