@@ -1,0 +1,165 @@
+{
+  "firma": "Flöß Architekten",
+  "stelle": "Bauleiter (m/w/d)",
+  "ort": "Villingen-Schwenningen",
+  "plz": "78050",
+  "region_badge": "Villingen-Schwenningen & Umgebung",
+  "farbe_primary": "#424441",
+  "farbe_secondary": "#884028",
+  "benefit_top": "Kurzer Freitag · flexible Arbeitszeiten",
+  "benefits": [
+    "Unbefristeter Arbeitsvertrag",
+    "Kurzer Freitag",
+    "Flexible Arbeitszeiten",
+    "Flache Hierarchien",
+    "Strukturierte Abläufe",
+    "Freundliches Arbeitsklima",
+    "Getränke-Flatrate",
+    "Betriebsausflüge",
+    "Regelmäßige Firmenfeiern"
+  ],
+  "aufgaben": [
+    "Bauprojekte in den Leistungsphasen 5–9 leiten und überwachen",
+    "Termine, Qualitätsstandards und Budget sicherstellen",
+    "Planung, Koordination und Abstimmung mit Bauherren, Behörden und Projektbeteiligten",
+    "Projekte für kommunale und öffentliche Bauherren planen und betreuen"
+  ],
+  "anforderung": "Abgeschlossenes Architektur-Studium oder vergleichbare Qualifikation als Bautechniker oder Bauleiter, fundierte Erfahrung in den Leistungsphasen 5–9, sichere Kenntnisse in VOB und HOAI sowie in ORCA und Archicad.",
+  "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+  "fachrichtungen": [
+    {
+      "label": "Architektur",
+      "icon": "📐",
+      "qualifikationen": [
+        {
+          "label": "Architektur-Studium abgeschlossen",
+          "icon": "🎓"
+        },
+        {
+          "label": "In der Architektenkammer eingetragen",
+          "icon": "🏅"
+        },
+        {
+          "label": "Studium ohne Kammereintrag",
+          "icon": "💪"
+        },
+        {
+          "label": "Noch im Studium",
+          "icon": "🔄"
+        }
+      ]
+    },
+    {
+      "label": "Bautechnik / Bauingenieurwesen",
+      "icon": "🏗️",
+      "qualifikationen": [
+        {
+          "label": "Bauingenieur (Studium)",
+          "icon": "🎓"
+        },
+        {
+          "label": "Staatl. gepr. Bautechniker",
+          "icon": "🏅"
+        },
+        {
+          "label": "Erfahren ohne formalen Abschluss",
+          "icon": "💪"
+        },
+        {
+          "label": "Noch in Ausbildung / Weiterbildung",
+          "icon": "🔄"
+        }
+      ]
+    },
+    {
+      "label": "Bauleitung aus der Praxis",
+      "icon": "👷",
+      "qualifikationen": [
+        {
+          "label": "Bauleiter mit LPH-5–9-Erfahrung",
+          "icon": "🎓"
+        },
+        {
+          "label": "Polier / Meister mit Bauleitung",
+          "icon": "🏅"
+        },
+        {
+          "label": "Bauleitung als Teilaufgabe",
+          "icon": "💪"
+        },
+        {
+          "label": "Will in die Bauleitung wechseln",
+          "icon": "🔄"
+        }
+      ]
+    },
+    {
+      "label": "Anderer Bereich",
+      "icon": "🛠️",
+      "qualifikationen": [
+        {
+          "label": "Abgeschlossenes Studium",
+          "icon": "🎓"
+        },
+        {
+          "label": "Meister / Techniker",
+          "icon": "🏅"
+        },
+        {
+          "label": "Erfahren ohne Abschluss",
+          "icon": "💪"
+        },
+        {
+          "label": "Quereinsteiger",
+          "icon": "🔄"
+        }
+      ]
+    }
+  ],
+  "fuehrerschein_optionen": [
+    {
+      "label": "Ja, Klasse B",
+      "icon": "🚗"
+    },
+    {
+      "label": "Ja, Klasse B + BE",
+      "icon": "🚚"
+    },
+    {
+      "label": "Nein",
+      "icon": "❌"
+    }
+  ],
+  "ueber": {
+    "fakten": [
+      {
+        "zahl": "8",
+        "label": "Mitarbeiter"
+      },
+      {
+        "zahl": "2003",
+        "label": "gegründet"
+      },
+      {
+        "zahl": "5–9",
+        "label": "Leistungsphasen"
+      }
+    ],
+    "text": "Architektur mit Verantwortung für den Bestand: Schwerpunkt des Büros sind Modernisierung, Sanierung und Umnutzung bestehender Immobilien – mit und ohne Denkmalschutz. Erhalt, Weiterentwicklung des Bestands und Nachverdichtung haben dabei Priorität."
+  },
+  "hero_bild": "img/hero.jpg",
+  "bilder": [
+    "img/foto-05-team.jpg",
+    "img/foto-01-buero-flur.jpg",
+    "img/foto-02-arbeitsplaetze.jpg",
+    "img/foto-03-teekueche.jpg",
+    "img/foto-04-empfang.jpg"
+  ],
+  "karte": {
+    "bild": "img/karte.jpg",
+    "label": "Villingen-Schwenningen"
+  },
+  "kunde_tab": "08 Flöß Architekten",
+  "quelle": "https://floess-architekten.green-careers.de",
+  "logo": "logo.jpg"
+}
